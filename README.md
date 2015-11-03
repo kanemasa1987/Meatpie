@@ -22,5 +22,3 @@ opt = optlib.de.De(iteration,pop)
 vec = opt.run(ObjectiveFunction())
 
 print(vec)
-
-Add a LICENSE: MIT License
